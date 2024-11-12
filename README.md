@@ -39,3 +39,13 @@ _No response_
 
 Don't adjust the max value by `unutilizedLeveragPercentage` when deleveraging
 
+
+
+## Discussion
+
+**sherlock-admin2**
+
+The protocol team fixed this issue in the following PRs/commits:
+https://github.com/IndexCoop/index-coop-smart-contracts/pull/192
+
+
